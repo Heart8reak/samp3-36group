@@ -33,3 +33,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		website:
+		https://heart8reak.github.io/samp3-36group/
